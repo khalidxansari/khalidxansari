@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @khalidxansari
-- 👀 I’m interested in Digital Asset and Media Management. 
+- 👀 I’m interested in Digital Asset and Media Management and Data Analysis.
 - 🌱 I’m currently learning Python, R, Tableau & D3. 
 - 💞️ I’m looking to collaborate on data collection and data visualization projects.
 - 😄 Pronouns: He/Him
